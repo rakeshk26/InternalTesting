@@ -1,0 +1,10 @@
+C:\Users\php2\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\php2\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\php2\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\php2\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\php2\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\php2\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\AirtableTest.csprojResolveAssemblyReference.cache
+C:\Users\php2\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\AirtableTest.csproj.CoreCompileInputs.cache
+C:\Users\php2\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\AirtableTest.csproj.CopyComplete
+C:\Users\php2\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\php2\Source\Repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
